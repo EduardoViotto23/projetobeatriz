@@ -23,4 +23,10 @@
     font-size: 24px;
 }
 
-.escola-imagem
+.escola-imagem{
+  width: 20%;
+}
+
+.escola{
+    background-image: (#39a939,#c8d0d2);
+}
